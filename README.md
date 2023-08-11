@@ -16,7 +16,14 @@ Before you begin, ensure you have the following installed:
   ```
   pip install mediapipe
   ```
-  
+- CV2 library
+  ```
+  pip install cv2
+  ```
+- Numpy
+  ```
+  pip install numpy
+  ```
 
 ### Usage
 
