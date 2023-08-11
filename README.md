@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
   ```
 - CV2 library
   ```
-  pip install cv2
+  pip install opencv-python
   ```
 - Numpy
   ```
