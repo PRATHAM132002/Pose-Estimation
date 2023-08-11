@@ -1,6 +1,6 @@
 # Pose Estimation Model using MediaPipe
 
-![Pose Estimation](pose_estimation.jpg)
+[Pose Estimation](https://editor.analyticsvidhya.com/uploads/53474logo_horizontal_color.png)
 
 This repository contains a Python implementation of a Pose Estimation model using the MediaPipe library. Pose estimation is the task of detecting and tracking key points on a human body, such as joints and landmarks, in images or videos. MediaPipe is an open-source library developed by Google that provides pre-trained models and tools for various computer vision tasks, including pose estimation.
 
@@ -46,5 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the developers and contributors of the MediaPipe library for providing a powerful tool for pose estimation.
 
 ---
-
-*Note: Make sure to replace `yourusername` with your actual GitHub username and provide appropriate image attribution if you're using any images.*
