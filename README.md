@@ -16,22 +16,6 @@ Before you begin, ensure you have the following installed:
   pip install mediapipe
   ```
   
-### Installation
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/Pose-Estimation.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd pose-estimation-media-pipe
-   ```
-
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
 ### Usage
 
