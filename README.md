@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pose-estimation-media-pipe.git
+   git clone https://github.com/yourusername/Pose-Estimation.git
    ```
 
 2. Navigate to the project directory:
@@ -35,9 +35,9 @@ Before you begin, ensure you have the following installed:
 
 ### Usage
 
-1. Run the `pose_estimation.py` script:
+1. Run the `pose_estimation.ipynb` script:
    ```
-   python pose_estimation.py
+   python pose_estimation.ipynb
    ```
    
 2. The script will use your computer's camera to capture video frames and perform pose estimation on each frame. The estimated key points will be displayed in real-time.
